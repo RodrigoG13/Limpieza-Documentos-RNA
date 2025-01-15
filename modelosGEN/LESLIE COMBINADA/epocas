@@ -1,0 +1,181 @@
+da
+/home/rodrigo/.local/lib/python3.10/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/rodrigo/.local/lib/python3.10/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=VGG16_Weights.IMAGENET1K_V1`. You can also use `weights=VGG16_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch [1/160], Pérdida: 0.1381587850982728
+Epoch [2/160], Pérdida: 0.06770009077761484
+Epoch [3/160], Pérdida: 0.059323807287475334
+Epoch [4/160], Pérdida: 0.0555687388000281
+Epoch [5/160], Pérdida: 0.05473977068196172
+Epoch [6/160], Pérdida: 0.050814218333233956
+Epoch [7/160], Pérdida: 0.05009788663490959
+Epoch [8/160], Pérdida: 0.048567625653484596
+Epoch [9/160], Pérdida: 0.0474040341442046
+Epoch [10/160], Pérdida: 0.04536727799669556
+
+(process:16146): Gtk-WARNING **: 16:20:34.324: Theme parser error: gtk.css:7519:21-28: Expected a valid color.
+
+(process:16146): Gtk-WARNING **: 16:20:34.324: Theme parser error: gtk.css:7524:21-28: Expected a valid color.
+
+(process:16146): Gtk-WARNING **: 16:20:34.324: Theme parser error: gtk.css:7677:21-28: Expected a valid color.
+
+(process:16146): Gtk-WARNING **: 16:20:34.324: Theme parser error: gtk.css:7683:21-28: Expected a valid color.
+Epoch [11/160], Pérdida: 0.04478255805114041
+Epoch [12/160], Pérdida: 0.0413226763839307
+Epoch [13/160], Pérdida: 0.03982956172979396
+Epoch [14/160], Pérdida: 0.038899463965840965
+Epoch [15/160], Pérdida: 0.038045811507364975
+Epoch [16/160], Pérdida: 0.038171235148025597
+Epoch [17/160], Pérdida: 0.03518017033196014
+Epoch [18/160], Pérdida: 0.0339939854229274
+Epoch [19/160], Pérdida: 0.033377010294276734
+Epoch [20/160], Pérdida: 0.03346774160214092
+Modelo guardado en: /home/rodrigo/Documentos/5to semestre/machin/modelos/_epoch_20.pth
+Epoch [21/160], Pérdida: 0.03325804962736109
+Epoch [22/160], Pérdida: 0.03149285791036875
+Epoch [23/160], Pérdida: 0.0302499008729406
+Epoch [24/160], Pérdida: 0.030687016475459804
+Epoch [25/160], Pérdida: 0.03030447491809078
+Epoch [26/160], Pérdida: 0.029358217087776764
+Epoch [27/160], Pérdida: 0.027716925448697548
+Epoch [28/160], Pérdida: 0.026458610416106556
+Epoch [29/160], Pérdida: 0.025282916977353718
+Epoch [30/160], Pérdida: 0.024143764992123066
+Epoch [31/160], Pérdida: 0.02293160217611686
+Epoch [32/160], Pérdida: 0.02220520312371461
+Epoch [33/160], Pérdida: 0.021153425554866375
+Epoch [34/160], Pérdida: 0.020700680901822838
+Epoch [35/160], Pérdida: 0.0198589483195025
+Epoch [36/160], Pérdida: 0.019254407642976097
+Epoch [37/160], Pérdida: 0.018163871263032375
+Epoch [38/160], Pérdida: 0.019217849628108997
+Epoch [39/160], Pérdida: 0.018006206733053146
+Epoch [40/160], Pérdida: 0.01719174793233042
+Modelo guardado en: /home/rodrigo/Documentos/5to semestre/machin/modelos/_epoch_40.pth
+Epoch [41/160], Pérdida: 0.016778865869602432
+Epoch [42/160], Pérdida: 0.015895012199230816
+Epoch [43/160], Pérdida: 0.016271252509044563
+Epoch [44/160], Pérdida: 0.015556850268141083
+Epoch [45/160], Pérdida: 0.014159386430907509
+Epoch [46/160], Pérdida: 0.014601822375603344
+Epoch [47/160], Pérdida: 0.014665828167420366
+Epoch [48/160], Pérdida: 0.015001328176130419
+Epoch [49/160], Pérdida: 0.014013781495716261
+Epoch [50/160], Pérdida: 0.014617661500106688
+Epoch [51/160], Pérdida: 0.013456644571345785
+Epoch [52/160], Pérdida: 0.013090339813219465
+Epoch [53/160], Pérdida: 0.013244138909098894
+Epoch [54/160], Pérdida: 0.012566146076373432
+Epoch [55/160], Pérdida: 0.012129648102690344
+Epoch [56/160], Pérdida: 0.01260426543329073
+Epoch [57/160], Pérdida: 0.012480704680733059
+Epoch [58/160], Pérdida: 0.013063431069578814
+Epoch [59/160], Pérdida: 0.012030624663052351
+Epoch [60/160], Pérdida: 0.011738441074671953
+Modelo guardado en: /home/rodrigo/Documentos/5to semestre/machin/modelos/_epoch_60.pth
+Epoch [61/160], Pérdida: 0.010798689767556347
+Epoch [62/160], Pérdida: 0.011187468857868858
+Epoch [63/160], Pérdida: 0.011563623809944029
+Epoch [64/160], Pérdida: 0.010767214972039928
+Epoch [65/160], Pérdida: 0.011704466832072838
+Epoch [66/160], Pérdida: 0.010538080383254133
+Epoch [67/160], Pérdida: 0.010594162988759901
+Epoch [68/160], Pérdida: 0.010189097658123659
+Epoch [69/160], Pérdida: 0.010051779044063194
+Epoch [70/160], Pérdida: 0.010357855738181135
+Epoch [71/160], Pérdida: 0.011186664438118105
+Epoch [72/160], Pérdida: 0.010033983069107584
+Epoch [73/160], Pérdida: 0.009976892853560656
+Epoch [74/160], Pérdida: 0.009346385385193254
+Epoch [75/160], Pérdida: 0.009164269588401785
+Epoch [76/160], Pérdida: 0.009471086299289827
+Epoch [77/160], Pérdida: 0.008893634010430264
+Epoch [78/160], Pérdida: 0.008629505401072294
+Epoch [79/160], Pérdida: 0.008357243673147066
+Epoch [80/160], Pérdida: 0.009214239073512346
+Modelo guardado en: /home/rodrigo/Documentos/5to semestre/machin/modelos/_epoch_80.pth
+Epoch [81/160], Pérdida: 0.009079795209286005
+Epoch [82/160], Pérdida: 0.008961203589063623
+Epoch [83/160], Pérdida: 0.009220349480924398
+Epoch [84/160], Pérdida: 0.00980436038630812
+Epoch [85/160], Pérdida: 0.008617737310250168
+Epoch [86/160], Pérdida: 0.00813009000747748
+Epoch [87/160], Pérdida: 0.008155589558832024
+Epoch [88/160], Pérdida: 0.007851702221871718
+Epoch [89/160], Pérdida: 0.008156388593108757
+Epoch [90/160], Pérdida: 0.008618655817016312
+Epoch [91/160], Pérdida: 0.00785653210123596
+Epoch [92/160], Pérdida: 0.007704314775764942
+Epoch [93/160], Pérdida: 0.007616250937723596
+Epoch [94/160], Pérdida: 0.008177038525109705
+Epoch [95/160], Pérdida: 0.007486633875447771
+Epoch [96/160], Pérdida: 0.007477790420955937
+Epoch [97/160], Pérdida: 0.007191988700271949
+Epoch [98/160], Pérdida: 0.007284550745364117
+Epoch [99/160], Pérdida: 0.00803269897385136
+Epoch [100/160], Pérdida: 0.008698821067810059
+Modelo guardado en: /home/rodrigo/Documentos/5to semestre/machin/modelos/_epoch_100.pth
+Epoch [101/160], Pérdida: 0.00861326823739902
+Epoch [102/160], Pérdida: 0.00856117110537446
+Epoch [103/160], Pérdida: 0.01069598171212103
+Epoch [104/160], Pérdida: 0.009499605947538563
+Epoch [105/160], Pérdida: 0.008087314179410105
+Epoch [106/160], Pérdida: 0.007498918506114379
+Epoch [107/160], Pérdida: 0.007443883031120767
+Epoch [108/160], Pérdida: 0.007358538877704869
+Epoch [109/160], Pérdida: 0.006866131382791892
+Epoch [110/160], Pérdida: 0.006929848707564499
+Epoch [111/160], Pérdida: 0.007256474285184041
+Epoch [112/160], Pérdida: 0.007897478244874788
+Epoch [113/160], Pérdida: 0.007553803916696621
+Epoch [114/160], Pérdida: 0.008106478975842829
+Epoch [115/160], Pérdida: 0.008660124149173498
+Epoch [116/160], Pérdida: 0.007772885546412157
+Epoch [117/160], Pérdida: 0.008003625046947727
+Epoch [118/160], Pérdida: 0.006914392376885466
+Epoch [119/160], Pérdida: 0.006772748721034631
+Epoch [120/160], Pérdida: 0.007171141712561897
+Modelo guardado en: /home/rodrigo/Documentos/5to semestre/machin/modelos/_epoch_120.pth
+Epoch [121/160], Pérdida: 0.007360038145080856
+Epoch [122/160], Pérdida: 0.007243099723659132
+Epoch [123/160], Pérdida: 0.006501347393445347
+Epoch [124/160], Pérdida: 0.006628541842750881
+Epoch [125/160], Pérdida: 0.0071293630070336485
+Epoch [126/160], Pérdida: 0.00643848352458166
+Epoch [127/160], Pérdida: 0.006474542208825765
+Epoch [128/160], Pérdida: 0.006344439259365849
+Epoch [129/160], Pérdida: 0.006066058316956396
+Epoch [130/160], Pérdida: 0.006037501132358675
+Epoch [131/160], Pérdida: 0.006002634257564078
+Epoch [132/160], Pérdida: 0.006055819437555645
+Epoch [133/160], Pérdida: 0.005818754778770001
+Epoch [134/160], Pérdida: 0.00629424633782195
+Epoch [135/160], Pérdida: 0.006099558556857316
+Epoch [136/160], Pérdida: 0.006031799757772166
+Epoch [137/160], Pérdida: 0.005847246912510499
+Epoch [138/160], Pérdida: 0.005712737774719362
+Epoch [139/160], Pérdida: 0.006431465583812931
+Epoch [140/160], Pérdida: 0.006034066131257493
+Modelo guardado en: /home/rodrigo/Documentos/5to semestre/machin/modelos/_epoch_140.pth
+Epoch [141/160], Pérdida: 0.005822526483351122
+Epoch [142/160], Pérdida: 0.00583235293869739
+Epoch [143/160], Pérdida: 0.005743625877506059
+Epoch [144/160], Pérdida: 0.0060003878872679625
+Epoch [145/160], Pérdida: 0.0062870449265060215
+Epoch [146/160], Pérdida: 0.006103147671598455
+Epoch [147/160], Pérdida: 0.005744912681858177
+Epoch [148/160], Pérdida: 0.0056648027637730474
+Epoch [149/160], Pérdida: 0.005378855655536703
+Epoch [150/160], Pérdida: 0.005325878869094278
+Epoch [151/160], Pérdida: 0.005529680937204672
+Epoch [152/160], Pérdida: 0.005432957985802837
+Epoch [153/160], Pérdida: 0.005637061599965977
+Epoch [154/160], Pérdida: 0.005249932873994112
+Epoch [155/160], Pérdida: 0.005390551487874725
+Epoch [156/160], Pérdida: 0.0051887082340924635
+Epoch [157/160], Pérdida: 0.005477995793942524
+Epoch [158/160], Pérdida: 0.005429464817533027
+Epoch [159/160], Pérdida: 0.005377992582709893
+Epoch [160/160], Pérdida: 0.005228575420282457
+Modelo guardado en: /home/rodrigo/Documentos/5to semestre/machin/modelos/_epoch_160.pth
